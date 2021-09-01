@@ -1,0 +1,59 @@
+# Intro
+e8 g7 e7 g7 b8 g7 e7 g7 e8 g7 e7 g7 e10 g7 e7 g7 e8 g7 e7 g7 b8 g7 e7 g7 e8 g7 e7 g7 b8 g7 e7 g7
+
+# A
+g7 g7 g7 d10 d9 d10 b10 b8 b7 b8 g7 g7
+
+# B
+d9 d9 d10 g7 g9 d9 d7 d7 d7 g9 b7 b8 b7 g9 g7
+
+# A
+g7 g7 g7 d10 d9 d10 b10 b8 b7 b8 g7 g7
+
+# C
+D9 d19 g7 g9 g7 b8 b8 b7 g9 b7 b8
+
+# D1
+g7 d10 d9 d7 d9 d10 b8 b8
+
+# D2
+d10 d9 d7 g7 b10 b8
+
+# D1
+g7 d10 d9 d7 d9 d10 b8 b8
+
+# D3
+g9 g7 d10 g7 g9 d9
+
+# D1
+g7 d10 d9 d7 d9 d10 b8 b8
+
+# D2
+d10 d9 d7 g7 b10 b8
+
+# E
+b8 b10 e7 g9 g9 g7 b10 b8 b8 e8 e7 b8 g9 b8 b10
+
+# F
+e7 e7 e7 e8 e7 b10 b9 b9 b10 b9 e7
+
+# G
+e7 e8 e7 e8 e10 b8 g9 g7 g7 e8 e7 b10 b8 g9 b8 b8 b8 g7 b10 b8
+
+# H
+b8 b8 b8 e8 e7 b10 b8 g7 g9 g7 b8 b10
+
+# F
+e7 e7 e7 e8 e7 b10 b9 b9 b10 b9 e7
+
+# I
+e7 e7 e10 e7 e10 e7 b10 b10 b8 e7 b8 g9 b8
+
+# J
+e8 e7 b10 b8 e8 e7 b10 b8 e8 e7 b10 b8
+
+# K
+g7 b10 b10 b8
+
+# L
+g7 b10 b10 b8 g7
